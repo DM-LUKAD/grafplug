@@ -1,5 +1,11 @@
 [
   {
+    "key": "xuzhou",
+    "latitude": 35.7678454,
+    "longitude": 116.2903857,
+    "name": "STAUFF CN Xuzhou"
+  },
+  {
     "key": "scarborough",
     "latitude": 47.7536039,
     "longitude": -85.7492012,
