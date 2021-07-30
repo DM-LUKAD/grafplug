@@ -1,5 +1,11 @@
 [
   {
+    "key": "lisburn",
+    "latitude": 54.5103555,
+    "longitude": -6.0904377,
+    "name": "STAUFF UK Lisburn"
+  },
+  {
     "key": "wollongong",
     "latitude": -32.4365789,
     "longitude": 141.2629312,
