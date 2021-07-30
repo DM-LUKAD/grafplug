@@ -1,5 +1,11 @@
 [
   {
+    "key": "aberdeen",
+    "latitude": 57.0693343,
+    "longitude": -2.1611213,
+    "name": "STAUFF UK Aberdeen"
+  },
+  {
     "key": "xuzhou",
     "latitude": 32.8950195,
     "longitude": 111.7407849,
