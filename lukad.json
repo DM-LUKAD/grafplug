@@ -1,5 +1,11 @@
 [
   {
+    "key": "michigan",
+    "latitude": 42.2787452,
+    "longitude": -83.463048,
+    "name": "STAUFF US Michigan"
+  },
+  {
     "key": "aberdeen",
     "latitude": 57.0693343,
     "longitude": -2.1611213,
@@ -45,13 +51,13 @@
     "key": "aberdeen",
     "latitude": 57.0725494,
     "longitude": -2.1622138,
-    "name": "STAUFF Aberdeen Scotland"
+    "name": "STAUFF UK Aberdeen"
   },
   {
     "key": "vineuil",
     "latitude": 47.5678633,
     "longitude": 1.3729563,
-    "name": "STAUFF France Vineuil"
+    "name": "STAUFF FR Vineuil"
   },
   {
     "key": "detmold",
@@ -69,19 +75,19 @@
     "key": "kahley",
     "latitude": 51.2349433,
     "longitude": 7.8511413,
-    "name": "MENSHEN Kahley"
+    "name": "MENSHEN DE Kahley"
   },
   {
     "key": "neuenrade",
     "latitude": 51.2406032,
     "longitude": 7.7559405,
-    "name": "STAUFF Neuenrade"
+    "name": "STAUFF DE Neuenrade"
   },
   {
     "key": "sheffield",
     "latitude": 53.4020548,
     "longitude": -1.4399272,
-    "name": "STAUFF Sheffield"
+    "name": "STAUFF UK Sheffield"
   },
   {
     "key": "shanghai",
@@ -93,25 +99,25 @@
     "key": "ohle",
     "latitude": 51.2405133,
     "longitude": 7.8237913,
-    "name": "STAUFF Ohle"
+    "name": "STAUFF DE Ohle"
   },
   {
     "key": "suha",
     "latitude": 51.2262357,
     "longitude": 7.9261224,
-    "name": "MENSHEN Sundern-Hagen"
+    "name": "MENSHEN DE Sundern-Hagen"
   },
   {
     "key": "finnentrop",
     "latitude": 51.1900934,
     "longitude": 7.9676192,
-    "name": "MENSHEN Finnentrop"
+    "name": "MENSHEN DE Finnentrop"
   },
   {
     "key": "ehrenfeld",
     "latitude": 51.2464433,
     "longitude": 7.7606713,
-    "name": "STAUFF Ehrenfeld"
+    "name": "STAUFF DE Ehrenfeld"
   },
   {
     "key": "meinerzhagen",
@@ -123,18 +129,18 @@
     "key": "lukad",
     "latitude": 51.2609733,
     "longitude": 7.7710813,
-    "name": "LUKAD Werdohl"
+    "name": "LUKAD DE Werdohl"
   },
   {
     "key": "shrott",
     "latitude": 51.2613789,
     "longitude": 7.7745018,
-    "name": "MENSHEN Schrotthandel"
+    "name": "MENSHEN DE A.Menshen"
   },
   {
     "key": "suello",
     "latitude": 45.8215319,
     "longitude": 9.3152135,
-    "name": "STAUFF Suello"
+    "name": "STAUFF IT Suello"
   }
 ]
