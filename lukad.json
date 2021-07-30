@@ -1,5 +1,11 @@
 [
   {
+    "key": "wollongong",
+    "latitude": -32.4365789,
+    "longitude": 141.2629312,
+    "name": "STAUFF AUS Wollongong"
+  },
+  {
     "key": "waldwick",
     "latitude": 41.0221771,
     "longitude": -74.1304337,
